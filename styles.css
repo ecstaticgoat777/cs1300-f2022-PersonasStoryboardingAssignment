@@ -1,0 +1,36 @@
+#cs1300-gallery {
+    background-color: #DAF4FB;
+  }
+  
+  /* Uncomment below if images are way too big.
+  Selects all image tags and makes them 500px;
+   */
+  img {
+   width: 35rem;
+   height: auto;
+  }
+  
+  .gallery-container {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;;
+    flex-wrap: wrap;
+  }
+
+  .persona-item {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+  }
+
+  .empathy-img {
+    width: 40rem;
+    height: auto;
+    padding: 1rem;
+  }
+
+  .storyboard-img {
+    width: 75rem;
+    height: auto;
+    padding: 1rem;
+  }
