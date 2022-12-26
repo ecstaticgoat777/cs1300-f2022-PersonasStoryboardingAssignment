@@ -1,1 +1,3 @@
-# cs1300-f2022-PersonasStoryboardingAssignment
+# personas-storyboarding
+
+A summary of a classic UX task to better understand user experiences at a local laundromat.
